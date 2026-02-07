@@ -265,6 +265,9 @@
             <?php echo $inline_scripts; ?>
         </script>
     <?php endif; ?>
+
+    <!-- Chatbot Widget -->
+    <?php include 'common/chatbot.php'; ?>
 </body>
 
 </html>

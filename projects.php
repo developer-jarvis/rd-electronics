@@ -413,7 +413,7 @@
                     <div class="stat-item">
                         <span class="stat-number">50+</span>
                         <span class="stat-label">Happy Clients</span>
-                    </div>
+                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="stat-item">
