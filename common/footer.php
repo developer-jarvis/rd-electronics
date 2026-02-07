@@ -1,4 +1,3 @@
-    </main>
 
     <!-- ENHANCED PREMIUM FOOTER -->
     <footer class="main-footer">
