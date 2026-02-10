@@ -19,6 +19,9 @@
         case 'projects.php':
             $current_page = 'projects';
             break;
+        case 'career.php':
+            $current_page = 'career';
+            break;
         case 'contact.php':
             $current_page = 'contact';
             break;

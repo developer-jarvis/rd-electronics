@@ -98,6 +98,12 @@
                         </li>
 
                         <li class="nav-item">
+                            <a class="nav-link <?php echo ($current_page == 'career') ? 'active' : ''; ?>" href="<?php echo $base_url; ?>career.php">
+                                <i class="fas fa-user-tie me-1"></i>Career
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
                             <a class="nav-link <?php echo ($current_page == 'contact') ? 'active' : ''; ?>" href="<?php echo $base_url; ?>contact.php">
                                 <i class="fas fa-envelope me-1"></i>Contact
                             </a>
