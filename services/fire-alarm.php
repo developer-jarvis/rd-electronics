@@ -99,7 +99,7 @@
                 <div class="col-lg-6">
                     <div class="service-image-container">
                         <div class="service-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/services/fire-alarm.avif" alt="Professional Fire Alarm Systems"
+                            <img src="<?php echo $base_url; ?>assets/images/services/fire-alarm.jpeg" alt="Professional Fire Alarm Systems"
                                 class="img-fluid">
                             <div class="image-overlay">
                                 <div class="overlay-content">

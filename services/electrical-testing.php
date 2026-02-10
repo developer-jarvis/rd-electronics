@@ -714,7 +714,7 @@
 
     <!-- ============================================ -->
 
-    <?php include_once 'common/footer.php'; ?>
+    <?php include_once '../common/footer.php'; ?>
 </body>
 
 </html>

@@ -98,7 +98,7 @@
                 <div class="col-lg-6">
                     <div class="service-image-container">
                         <div class="service-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/services/ups.jpg" alt="Professional UPS & Inverter Solutions"
+                            <img src="<?php echo $base_url; ?>assets/images/services/ups.jpeg" alt="Professional UPS & Inverter Solutions"
                                 class="img-fluid">
                             <div class="image-overlay">
                                 <div class="overlay-content">

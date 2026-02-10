@@ -161,7 +161,7 @@
             <!-- Data Cabling Work -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/data-cabling.jpg" alt="Data Cabling Work">
+                    <img src="<?php echo $base_url; ?>assets/images/services/data-cabling.jpeg" alt="Data Cabling Work">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -185,7 +185,7 @@
             <!-- CCTV Security & Surveillance -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/cctv.jpg" alt="CCTV Security & Surveillance">
+                    <img src="<?php echo $base_url; ?>assets/images/services/cctv.jpeg" alt="CCTV Security & Surveillance">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -209,7 +209,7 @@
             <!-- Fibre Cable Splicing -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/fibre-cable.jpg" alt="Fibre Cable Splicing">
+                    <img src="<?php echo $base_url; ?>assets/images/services/fibre-splicing.jpeg" alt="Fibre Cable Splicing">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -233,7 +233,7 @@
             <!-- OTDR Testing Services -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/otdr.jpg" alt="OTDR Testing Services">
+                    <img src="<?php echo $base_url; ?>assets/images/services/otdr-testing.jpeg" alt="OTDR Testing Services">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -281,7 +281,7 @@
             <!-- Fire Alarm Systems -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/fire-alarm.avif" alt="Fire Alarm Systems">
+                    <img src="<?php echo $base_url; ?>assets/images/services/fire-alarm.jpeg" alt="Fire Alarm Systems">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -313,7 +313,7 @@
             <!-- Electrical Wiring -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/electrical-wiring.jpg" alt="Electrical Wiring">
+                    <img src="<?php echo $base_url; ?>assets/images/services/electrical-wiring.jpeg" alt="Electrical Wiring">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -337,7 +337,7 @@
             <!-- Panel & DB Installation -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/panel.jpg" alt="Panel & DB Installation">
+                    <img src="<?php echo $base_url; ?>assets/images/services/panel.jpeg" alt="Panel & DB Installation">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -361,7 +361,7 @@
             <!-- UPS & Inverter Solutions -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/ups.jpg" alt="UPS & Inverter Solutions">
+                    <img src="<?php echo $base_url; ?>assets/images/services/ups.jpeg" alt="UPS & Inverter Solutions">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">
@@ -417,7 +417,7 @@
             <!-- Technical Manpower Supply -->
             <div class="service-item">
                 <div class="service-image">
-                    <img src="<?php echo $base_url; ?>assets/images/services/man-power.avif" alt="Technical Manpower Supply">
+                    <img src="<?php echo $base_url; ?>assets/images/services/man-power.jpeg" alt="Technical Manpower Supply">
                     <div class="service-overlay">
                         <div class="service-overlay-content">
                             <div class="service-icon">

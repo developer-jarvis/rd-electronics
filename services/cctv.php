@@ -95,7 +95,7 @@
             <div class="col-lg-6">
                 <div class="service-image-container">
                     <div class="service-main-image">
-                        <img src="<?php echo $base_url; ?>assets/images/services/cctv.jpg" alt="Professional CCTV Security Installation" class="img-fluid">
+                        <img src="<?php echo $base_url; ?>assets/images/services/cctv.jpeg" alt="Professional CCTV Security Installation" class="img-fluid">
                         <div class="image-overlay">
                             <div class="overlay-content">
                                 <h4>300+</h4>

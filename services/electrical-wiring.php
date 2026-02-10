@@ -99,7 +99,7 @@
                 <div class="col-lg-6">
                     <div class="service-image-container">
                         <div class="service-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/services/electrical-wiring.jpg"
+                            <img src="<?php echo $base_url; ?>assets/images/services/electrical-wiring.jpeg"
                                 alt="Professional Electrical Wiring Services" class="img-fluid">
                             <div class="image-overlay">
                                 <div class="overlay-content">

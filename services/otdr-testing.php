@@ -100,7 +100,7 @@
                 <div class="col-lg-6">
                     <div class="service-image-container">
                         <div class="service-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/services/otdr.jpg" alt="Professional OTDR Testing Equipment"
+                            <img src="<?php echo $base_url; ?>assets/images/services/otdr-testing.jpeg" alt="Professional OTDR Testing Equipment"
                                 class="img-fluid">
                             <div class="image-overlay">
                                 <div class="overlay-content">

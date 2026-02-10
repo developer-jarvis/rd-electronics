@@ -98,7 +98,7 @@
                 <div class="col-lg-6">
                     <div class="service-image-container">
                         <div class="service-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/services/data-cabling.jpg" alt="Professional Data Cabling Installation" class="img-fluid">
+                            <img src="<?php echo $base_url; ?>assets/images/services/data-cabling.jpeg" alt="Professional Data Cabling Installation" class="img-fluid">
                             <div class="image-overlay">
                                 <div class="overlay-content">
                                     <h4>5+ Years</h4>

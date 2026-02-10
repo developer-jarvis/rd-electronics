@@ -97,7 +97,7 @@
                 <div class="col-lg-6">
                     <div class="service-image-container">
                         <div class="service-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/services/man-power.avif" alt="Professional Technical Manpower Supply"
+                            <img src="<?php echo $base_url; ?>assets/images/services/man-power.jpeg" alt="Professional Technical Manpower Supply"
                                 class="img-fluid">
                             <div class="image-overlay">
                                 <div class="overlay-content">

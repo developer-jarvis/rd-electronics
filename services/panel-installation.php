@@ -96,7 +96,7 @@
             <div class="col-lg-6">
                 <div class="service-image-container">
                     <div class="service-main-image">
-                        <img src="<?php echo $base_url; ?>assets/images/services/panel.jpg" alt="Professional Panel & DB Installation" class="img-fluid">
+                        <img src="<?php echo $base_url; ?>assets/images/services/panel.jpeg" alt="Professional Panel & DB Installation" class="img-fluid">
                         <div class="image-overlay">
                             <div class="overlay-content">
                                 <h4>150+</h4>
