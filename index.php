@@ -314,7 +314,7 @@
             <div class="service-item">
                 <div class="service-image">
                     <img src="<?php echo $base_url; ?>assets/images/services/electrical-wiring.jpeg" alt="Electrical Wiring">
-                    <div class="service-overlay">
+                    <div class="service-overlay ">
                         <div class="service-overlay-content">
                             <div class="service-icon">
                                 <i class="fas fa-plug"></i>
@@ -322,9 +322,10 @@
                             <h4>Electrical Wiring</h4>
                             <p>Complete electrical installation and maintenance</p>
                             <ul>
+                                <li>Cable Tray and Raceway & Conduit ( MS, PVC)</li>
                                 <li>Single & Three Phase Wiring</li>
                                 <li>Industrial Installations</li>
-                                <li>Safety Compliance</li>
+                                <!-- <li>Safety Compliance</li> -->
                             </ul>
                         </div>
                         <div class="service-overlay-footer">

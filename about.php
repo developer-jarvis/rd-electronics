@@ -90,24 +90,35 @@
 
                 <div class="col-lg-6">
                     <div class="about-image-container">
-                        <div class="about-main-image">
-                            <img src="<?php echo $base_url; ?>assets/images/certificate/1.jpeg" alt="RD Electronics Team" class="img-fluid">
-                            <div class="image-overlay">
-                                <div class="overlay-content">
-                                    <h4>5+ Years</h4>
-                                    <p>Industry Experience</p>
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="about-main-image">
+                                    <img src="<?php echo $base_url; ?>assets/images/certificate/1.jpeg" alt="RD Electronics Certificate" class="img-fluid" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+                                    <div class="image-overlay">
+                                        <div class="overlay-content">
+                                            <h4>Certified</h4>
+                                            <p>Quality Assured</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="about-main-image" style="overflow: visible; display: flex; padding: 40px; align-items: center; justify-content: center; min-height: 400px;">
+                                    <img src="<?php echo $base_url; ?>assets/images/certificate/4.jpeg" alt="RD Electronics Certification" class="img-fluid" style="transform: rotate(-90deg); border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.15); max-width: 100%; height: auto;">
+                                    <div class="image-overlay" style="transform: rotate(0deg);">
+                                        <div class="overlay-content">
+                                            <h4>ISO Certified</h4>
+                                            <p>Excellence Standard</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="floating-stats">
-                            <div class="stat-card">
-                                <h3>50+</h3>
-                                <p>Happy Clients</p>
-                            </div>
-                            <div class="stat-card">
-                                <h3>100+</h3>
-                                <p>Projects Completed</p>
+                        <div class="floating-stats" style="margin-top: 20px;">
+                            <div class="stat-card" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); border-radius: 15px; padding: 25px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+                                <h3 style="color: #fff; font-size: 2.5rem; font-weight: 700; margin-bottom: 5px;">50+</h3>
+                                <p style="color: rgba(255,255,255,0.9); margin: 0; font-size: 1rem;">Happy Clients</p>
                             </div>
                         </div>
                     </div>
@@ -149,6 +160,29 @@
                             <div class="founder-signature">
                                 <h5>Mr. Rajan Kumar Ray</h5>
                                 <p>Proprietor, RD Electronics</p>
+                            </div>
+                        </div>
+                        
+                        <div class="founder-stats mt-4">
+                            <div class="row g-3">
+                                <div class="col-md-4">
+                                    <div class="stat-card">
+                                        <h3>100+</h3>
+                                        <p>Projects Completed</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="stat-card">
+                                        <h3>15+</h3>
+                                        <p>Cities Served</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="stat-card">
+                                        <h3>5+</h3>
+                                        <p>Years Experience</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
