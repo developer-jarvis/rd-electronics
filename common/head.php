@@ -80,5 +80,5 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css/rd-electronics.css" />
     <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css/site.css" />
-
+    <link rel="stylesheet" href="<?php echo $base_url; ?>assets/css/service-cards-new.css" />
 </head>
