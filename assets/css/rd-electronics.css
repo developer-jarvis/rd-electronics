@@ -3172,7 +3172,8 @@ h6 { font-size: 1rem; }
   background: linear-gradient(135deg, rgba(30, 90, 168, 0.05) 0%, rgba(255, 107, 53, 0.05) 100%);
   opacity: 0;
   transition: opacity 0.6s ease;
-  z-index: 1;
+  z-index: -1;
+  pointer-events: none;
 }
 
 .service-item::after {
